@@ -385,7 +385,8 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(162, 21, 21, 0.4);
+  background: #828282;
+  opacity: 0.6;
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter,
