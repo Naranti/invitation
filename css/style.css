@@ -1848,4 +1848,34 @@ form label {
 
 }
 
+.image-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.image-button img {
+  height: 35px;
+}
+
+.image-button-footer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #828282;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.image-button-footer img {
+  height: 35px;
+}
+
 /*# sourceMappingURL=style.css.map */
