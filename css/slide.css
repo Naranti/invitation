@@ -24,14 +24,14 @@ body {
 }
 
 .carruseles {
-    width: 1100%;
+    width: 1500%;
     height: 100%;
     display: flex;
 
 }
 
 .slider-section {
-    width: calc(100% / 11);
+    width: calc(100% / 15);
     height: 100%;
 }
 
